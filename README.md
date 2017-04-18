@@ -2,4 +2,4 @@
 这是我的个人简历，方便您个好的认识、了解我，
 如果符合你的岗位要求，请给我发邮件，或者留言联系我！
 联系邮箱：512355793@qq.com
-GitHub：https://github.com/fozhu/-.git查看简历内容
+GitHub：https://github.com/fozhu/RESUME查看简历内容
